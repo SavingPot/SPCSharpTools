@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MakeGames\\OtherProjects\\SPCSharpTools\\SPCSharpTools\\SPCSharpTools.csproj": {}
+  },
+  "projects": {
+    "D:\\MakeGames\\OtherProjects\\SPCSharpTools\\SPCSharpTools\\SPCSharpTools.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MakeGames\\OtherProjects\\SPCSharpTools\\SPCSharpTools\\SPCSharpTools.csproj",
+        "projectName": "SPCSharpTools",
+        "projectPath": "D:\\MakeGames\\OtherProjects\\SPCSharpTools\\SPCSharpTools\\SPCSharpTools.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\MakeGames\\OtherProjects\\SPCSharpTools\\SPCSharpTools\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net4.7.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "targetAlias": "net4.7.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net471": {
+          "targetAlias": "net4.7.1",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

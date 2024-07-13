@@ -1,0 +1,9 @@
+D:\MakeGames\OtherProjects\SPCSharpTools\SPCSharpTools\bin\Debug\net4.7.1\SPCSharpTools.dll
+D:\MakeGames\OtherProjects\SPCSharpTools\SPCSharpTools\bin\Debug\net4.7.1\SPCSharpTools.pdb
+D:\MakeGames\OtherProjects\SPCSharpTools\SPCSharpTools\obj\Debug\net4.7.1\SPCSharpTools.csproj.AssemblyReference.cache
+D:\MakeGames\OtherProjects\SPCSharpTools\SPCSharpTools\obj\Debug\net4.7.1\SPCSharpTools.GeneratedMSBuildEditorConfig.editorconfig
+D:\MakeGames\OtherProjects\SPCSharpTools\SPCSharpTools\obj\Debug\net4.7.1\SPCSharpTools.AssemblyInfoInputs.cache
+D:\MakeGames\OtherProjects\SPCSharpTools\SPCSharpTools\obj\Debug\net4.7.1\SPCSharpTools.AssemblyInfo.cs
+D:\MakeGames\OtherProjects\SPCSharpTools\SPCSharpTools\obj\Debug\net4.7.1\SPCSharpTools.csproj.CoreCompileInputs.cache
+D:\MakeGames\OtherProjects\SPCSharpTools\SPCSharpTools\obj\Debug\net4.7.1\SPCSharpTools.dll
+D:\MakeGames\OtherProjects\SPCSharpTools\SPCSharpTools\obj\Debug\net4.7.1\SPCSharpTools.pdb
