@@ -21,7 +21,7 @@
 
 
 # About
-A repo that serves varieties of practical functions for C# programmers. It's firstly used in my personal game project, but it can also be used in general C# program development. It is completely libre.
+A repo that serves varieties of practical functions for C# programmers. It's firstly used in my personal game project, but it can also be used in general C# program development. It is a Libre Software.
 
 # How to use
 Just copy all the .cs files to your project.
