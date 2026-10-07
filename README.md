@@ -4,7 +4,15 @@
 # 如何使用
 把项目里的所有 .cs 文件复制到你的项目即可
 
+
+
+
+
 ---
+
+
+
+
 
 # About
 A repo that serves varieties of practical functions for C# programmers. It's firstly used in my personal game project, but it can also be used in general C# program development.
